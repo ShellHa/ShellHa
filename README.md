@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**ShellHa/ShellHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![imagen]("./../Imagen/fondo.jpeg) 
 
-Here are some ideas to get you started:
+<div align="center">
+ 
+ <img src="https://img.shields.io/github/followers/ShellHa?style=for-the-badge&logo=github&color=blue" alt="Github followers"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </div>
+
+ ### Hi there 👋
+  
+<li><b>👤 Name:  </b> Michelle Gay </li>
+<li><b>📍 Location:  </b> Mexico City </li>
+<li><b>📣 Languages: </b>  English A2 & Spanish </li>
+<li><b>👨‍🎓 Actual studies: </b> Licenciatura en Enfermería </li>
+</ul>
+
